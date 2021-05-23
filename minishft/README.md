@@ -15,7 +15,7 @@ Minishift is used as below:\
 $ minishift.exe start --vm-driver virtualbox
 
 ```
-when we ran the above command, the minishift.exe will execute and go to the internet, download the minishift ISO file, configure it and give us a url to access the portal.
+when we ran the above command, the minishift.exe will execute and go to the internet, download the minishift ISO file, configure it and give us a url to access the portal.\
 7. Give any username and password in the portal in order to log in.(it is unauthenticate)
 8. BOOM!! we can use the total portal 
 
