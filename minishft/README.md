@@ -7,7 +7,7 @@ Minishift is used as below:\
 ## How to Install
 1. Go to the url: https://www.okd.io/minishift/
 2. Make sure to have and run hypervisor in the system: i use oracle VitualBox
-3. GO to the release version and select the required version as per the platform and download: in my case, window.
+3. GO to the release version (https://github.com/minishift/minishift/releases) and select the required version as per the platform and download ( https://github.com/minishift/minishift/releases/download/v1.34.3/minishift-1.34.3-windows-amd64.zip) : in my case, window.
 4. Move the zip file where the VM is install: in my case, it is in C: drive.
 5. Open up the CMD promp and point to the directory where minishift.exm present
 6. Run the below command:
