@@ -44,6 +44,6 @@ $ oc get users
 ```
 3. Run 
 ```
-$ oc adm policy add-cluster-role-user cluster-admin <user_name>
+$ oc adm policy add-cluster-role-to-user cluster-admin <user_name>
 ```
 to do so, it is assigned the <user_name> as cluster admin 
