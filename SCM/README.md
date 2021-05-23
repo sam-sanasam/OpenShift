@@ -1,0 +1,2 @@
+### What happen when we add an application in the project:
+When we add an application to a project, OpenShift automatically creates a build and triggers it, downloads the source code, builds the docker image, pushes it to the Docker registry, and creates a deployment to deploy the application onto the built-in Kubernetes cluster. All of these are built-in functionality within OpenShift and does not require us to perform any additional configuration other than specifying the link to the code repository where the application code is hosted
